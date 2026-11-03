@@ -1,0 +1,10 @@
+Model architecture adapted from Alessandro Brusaferri, PF_DQ-NBM (MIT); full MIT notice is retained in model.py.
+https://github.com/bruale/PF_DQ-NBM
+Input conversion: Alessandro Brusaferri, Apache-2.0; extracted and modified from the existing baseline.
+Feedback saturation functions originate from conformal-time-series:
+https://github.com/aangelopoulos/conformal-time-series
+Median rearrangement: Fakoor et al., Flexible Model Aggregation for Quantile Regression, JMLR 24 (2023), section 4.2.1, equation (23).
+
+Dataset provenance: PefCodeBench, https://github.com/bruale/PefCodeBench/tree/main/data/datasets . Local copies retain all original rows and columns. Separate dataset redistribution terms have not been confirmed.
+
+Feedback replay adapter is extracted from the local implementation; delayed updates consume observations through day t-2. See licenses/conformal-time-series-MIT.txt for upstream MIT terms.

@@ -1,0 +1,51 @@
+[
+  {
+    "file": "DE_market__2015-01-01__2020-12-31.csv",
+    "rows": 52608,
+    "start": "2015-01-01",
+    "end": "2020-12-31",
+    "sha256": "c6ffcb1928c7284ef23477d7bab7a7b942929a8baaa2556737b638d0682a25fa"
+  },
+  {
+    "file": "MGP_CNOR_market__2015-01-01__2019-08-31.csv",
+    "rows": 40896,
+    "start": "2015-01-01",
+    "end": "2019-08-31",
+    "sha256": "84f01a08f7e71b2cb78a34080fd21bd8f040d20091d3a981afbfe4f848ea077f"
+  },
+  {
+    "file": "MGP_CSUD_market__2015-01-01__2019-08-31.csv",
+    "rows": 40896,
+    "start": "2015-01-01",
+    "end": "2019-08-31",
+    "sha256": "22ab862abbb2c8defbff4c2701b3c5ae923193820fbd1b1d5df42ac6de6ca5f2"
+  },
+  {
+    "file": "MGP_NORD_market__2015-01-01__2019-08-31.csv",
+    "rows": 40896,
+    "start": "2015-01-01",
+    "end": "2019-08-31",
+    "sha256": "9352491383dc0556275edde8dddb3a25963e4fc543d152dacf1f1c088785a0c9"
+  },
+  {
+    "file": "MGP_SARD_market__2015-01-01__2019-08-31.csv",
+    "rows": 40896,
+    "start": "2015-01-01",
+    "end": "2019-08-31",
+    "sha256": "8c98af15481abd708803dfafc6e2267cfeddc21fb0e8a09f7105ab7bce2c82be"
+  },
+  {
+    "file": "MGP_SICI_market__2015-01-01__2019-08-31.csv",
+    "rows": 40896,
+    "start": "2015-01-01",
+    "end": "2019-08-31",
+    "sha256": "0cbe37d294570219ad16f45351483b452671e70347dafe58cd66a5aa9633fb4e"
+  },
+  {
+    "file": "MGP_SUD_market__2015-01-01__2019-08-31.csv",
+    "rows": 40896,
+    "start": "2015-01-01",
+    "end": "2019-08-31",
+    "sha256": "4611786d4a29e418db09a4343a52d59434db70dbdfdacce3d7e3a03fe3dae328"
+  }
+]
